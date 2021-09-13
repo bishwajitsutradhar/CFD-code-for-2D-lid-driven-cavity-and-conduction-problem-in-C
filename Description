@@ -1,1 +1,3 @@
 
+Lid driven cavity: Implementation of Marker and Cell algorithm to solve 2D lid driven cavity problem. The stream function contour, pressure contour, u-velocity contour and v-velocity contour data are obtained and plotted using Tecplot. To validate the solution, the u- velocity variation along the mid vertical line and the v velocity variation along the mid horizontal line are compared with those of Ghia et al. (1982) paper.
+Steady state conduction problem: Solving the steady state conduction problem for three different cases using three different methods. The methods used are incomplete LU decomposition(ILU), strongly implicit procedure(SIP) and conjugate gradient method. The results are plotted and compared with the analytical solution for validation.
